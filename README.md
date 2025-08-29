@@ -4,7 +4,8 @@
 
 O **Induflow** é um projeto de portfólio que demonstra um sistema web para gestão e monitoramento de processos industriais em tempo real. Ele foi desenhado para oferecer uma visão clara e controle sobre o chão de fábrica, abrangendo desde o lançamento de ordens de produção até a análise de qualidade.
 
-Este projeto é inspirado em um sistema real que desenvolvi de forma autônoma e implementei com sucesso em uma indústria de transformação de plásticos no Polo Industrial de Manaus. O objetivo do Induflow é adaptar e exibir as funcionalidades centrais daquele sistema, comprovado em ambiente de produção, em um formato ideal para demonstração de competências técnicas.
+Este projeto é inspirado em
+ um sistema real que desenvolvi de forma autônoma e implementei com sucesso em uma indústria de transformação de plásticos no Polo Industrial de Manaus. O objetivo do Induflow é adaptar e exibir as funcionalidades centrais daquele sistema, comprovado em ambiente de produção, em um formato ideal para demonstração de competências técnicas.
 
 Uma característica marcante do projeto original é a sua **integração direta com o ERP legado** da empresa. O sistema operava conectado a dois bancos de dados distintos simultaneamente — o seu próprio e o do ERP — para sincronizar informações vitais e manter a consistência dos dados entre o chão de fábrica e o sistema de gestão corporativo.
 
@@ -33,5 +34,6 @@ Uma característica marcante do projeto original é a sua **integração direta 
 
 - **Banco de Dados:**
   - MYSQL
+     <img width="1912" height="1069" alt="Captura de tela 2025-08-29 145350" src="https://github.com/user-attachments/assets/fe95ff2b-6ee2-437d-a2c0-ae039811cc54" />
 
 

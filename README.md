@@ -32,26 +32,6 @@ Uma característica marcante do projeto original é a sua **integração direta 
   - Bootstrap
 
 - **Banco de Dados:**
-  - SQL
+  - MYSQL
 
-## Como Executar
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone <url-do-repositorio>
-    ```
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd compol
-    ```
-3.  **Execute a aplicação com o Maven Wrapper:**
-    - No Windows:
-      ```bash
-      mvnw.cmd spring-boot:run
-      ```
-    - No Linux/macOS:
-      ```bash
-      ./mvnw spring-boot:run
-      ```
-4.  **Acesse a aplicação:**
-    Abra o seu navegador e acesse `http://localhost:8080`.

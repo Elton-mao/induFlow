@@ -40,8 +40,8 @@ Uma característica marcante do projeto original é a sua **integração direta 
 
 
 
-<img width="1918" height="1074" alt="Captura de tela 2025-08-29 145302" src="https://github.com/user-attachments/assets/729b1a19-c826-47a1-a145-499664ca60d3" />
+    <img width="1918" height="1074" alt="Captura de tela 2025-08-29 145302" src="https://github.com/user-attachments/assets/729b1a19-c826-47a1-a145-499664ca60d3" />
 
 
-<img width="1914" height="1057" alt="Captura de tela 2025-08-29 145516" src="https://github.com/user-attachments/assets/66342e59-2482-4f52-8bc7-f6c608c7cc57" />
+    <img width="1914" height="1057" alt="Captura de tela 2025-08-29 145516" src="https://github.com/user-attachments/assets/66342e59-2482-4f52-8bc7-f6c608c7cc57" />
 

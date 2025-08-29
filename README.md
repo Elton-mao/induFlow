@@ -36,4 +36,12 @@ Uma característica marcante do projeto original é a sua **integração direta 
   - MYSQL
      <img width="1912" height="1069" alt="Captura de tela 2025-08-29 145350" src="https://github.com/user-attachments/assets/fe95ff2b-6ee2-437d-a2c0-ae039811cc54" />
 
+     <img width="1901" height="1053" alt="Captura de tela 2025-08-29 145417" src="https://github.com/user-attachments/assets/547e03c0-c8bd-4588-bb18-b3847848f62d" />
+
+
+
+<img width="1918" height="1074" alt="Captura de tela 2025-08-29 145302" src="https://github.com/user-attachments/assets/729b1a19-c826-47a1-a145-499664ca60d3" />
+
+
+<img width="1914" height="1057" alt="Captura de tela 2025-08-29 145516" src="https://github.com/user-attachments/assets/66342e59-2482-4f52-8bc7-f6c608c7cc57" />
 
